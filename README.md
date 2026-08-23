@@ -1,2 +1,3 @@
-# sentiment-lexicon-id
-Rule-based sentiment classification engine for Indonesian social media text.
+# Sentiment Lexicon ID
+
+Indonesian social sentiment classifier.
